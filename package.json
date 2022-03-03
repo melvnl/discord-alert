@@ -1,0 +1,31 @@
+{
+  "name": "discord-alert",
+  "version": "1.0.0",
+  "description": "Send message / notification to your discord server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "homepage": "https://github.com/melvnl/discord-alert",
+  "repository": {
+    "type": "git",
+    "url": "\u0016https://github.com/melvnl/discord-alert"
+  },
+  "type": "module",
+  "author": "melvnl",
+  "license": "ISC",
+  "tags": [
+    "javascript",
+    "discord"
+  ],
+  "keywords": [
+    "javascript",
+    "discord-bot",
+    "discord-api",
+    "alert",
+    "notification"
+  ],
+  "dependencies": {
+    "node-fetch": "^3.2.1"
+  }
+}
