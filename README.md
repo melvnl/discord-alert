@@ -16,6 +16,27 @@ import Notification from "discord-alert";
 Notification("discord webhook url", "message");
 ```
 
+### Parameters
+
+<table>
+<tr>
+<td>
+url
+</td>
+<td>
+ your discord server webhook url
+</td>
+</tr>
+<tr>
+<td>
+message
+</td>
+<td>
+ what message you want to send
+</td>
+</tr>
+</table>
+
 ### Author
 
 - [melvnl](https://github.com/melvnl/)
