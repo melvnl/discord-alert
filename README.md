@@ -1,6 +1,6 @@
 <h1 align='center'> Discord Alert</h1>
 
-<p align='center'>Send a message/notification with http request to discord server
+<p align='center'>A lightweight package to send message/notification with http request to discord server
 
 ### Install
 
