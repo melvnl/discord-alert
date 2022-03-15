@@ -48,6 +48,35 @@ There are various cases where you can use this package. I'm using it to send a n
 
 Instead of receiving the notification through email which is quite convoluted (since you need an SMTP server, etc to make it work). I see discord webhook is much simpler and suit my need.
 
+### Changelog
+
+<table>
+<tr>
+<td>
+1.0.0
+</td>
+<td>
+ Initial version with javascript
+</td>
+</tr>
+<tr>
+<td>
+1.0.1
+</td>
+<td>
+ Accidental increment (you can ignore this version 😅 )
+</td>
+</tr>
+<tr>
+<td>
+1.1.0
+</td>
+<td>
+ Update from javascript to typescript
+</td>
+</tr>
+</table>
+
 ### Author
 
 - [melvnl](https://github.com/melvnl/)
