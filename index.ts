@@ -1,6 +1,6 @@
 import fetch from "node-fetch";
 
-export default function Notification(url, message) {
+export default function Notification(url: string, message: string) {
     fetch(url, {
         body: JSON.stringify({
             content: message,
